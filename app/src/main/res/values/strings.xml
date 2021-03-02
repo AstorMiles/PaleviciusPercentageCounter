@@ -1,0 +1,5 @@
+<resources>
+    <string name="enter_amount">Enter the Amount</string>
+    <string name="app_name">PaleviciusPercentCounter</string>
+    <string name="tip_percentage">0%</string>
+</resources>
